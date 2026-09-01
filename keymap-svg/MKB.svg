@@ -27,7 +27,7 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="subtitle" x="30" y="28">58 bindings</text>
 <g class="key keypos-0 " transform="translate(30 64) rotate(0 0 0)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="26">TAB</text>
+<text class="tap" x="26" y="26">ESC</text>
 </g>
 <g class="key keypos-1 " transform="translate(82 64) rotate(0 -52 0)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
@@ -75,8 +75,7 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 </g>
 <g class="key keypos-12 " transform="translate(30 116) rotate(0 0 -52)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="20">ESC</text>
-<text class="hold" x="26" y="37">LT BT</text>
+<text class="tap" x="26" y="26">TAB</text>
 </g>
 <g class="key keypos-13 " transform="translate(82 116) rotate(0 -52 -52)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
@@ -173,8 +172,7 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 </g>
 <g class="key keypos-36 " transform="translate(30 220) rotate(0 0 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="20">ESC</text>
-<text class="hold" x="26" y="37">LCTL</text>
+<text class="tap" x="26" y="26">LEFT_CONTROL</text>
 </g>
 <g class="key keypos-37 " transform="translate(82 220) rotate(0 -52 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
