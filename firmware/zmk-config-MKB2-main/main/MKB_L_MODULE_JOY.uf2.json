@@ -1,10 +1,10 @@
 {
   "artifact": {
     "name": "MKB_L_MODULE_JOY.uf2",
-    "sha256": "4692b683377e6f763186b4a0b9bdd8e33adcac8464832dfef2dca972ed570336"
+    "sha256": "0c1087b1864a987a0a0856cbb967828bc8671d8db6a5efc0acdb49658fd9d74f"
   },
   "generated": {
-    ".config": "981e78a10c33bba56a634d6e5e3977985041e7e466ea62c82ce60dafc83a5401",
+    ".config": "927e1c2c5b48f464d0c9db7ad225bd9342e4e23d82bea1f5d7625d1d1cb09bce",
     "zephyr.dts": "df7b9edb9d86ff093c4d8893d8c2554c306ba230a45f5e66a013c46dddcf065c"
   },
   "inputs": {
@@ -244,7 +244,7 @@
         "untracked": {}
       },
       "zmk": {
-        "commit": "7fd6a70261963be9bc0cb4102e6bad339e115c39",
+        "commit": "2ae914a28d179fffb8fdd72080e44ef719f49973",
         "diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "dirty": false,
         "untracked": {}
@@ -323,7 +323,7 @@
       }
     },
     "source": {
-      "commit": "110e8ad9b081930dfab3f0acc93b46f57b2960a6",
+      "commit": "524955926c498410637a94c0d83bae3dbb373459",
       "diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "dirty": false,
       "untracked": {}
@@ -335,7 +335,7 @@
       "untracked": {}
     }
   },
-  "run_id": "38362652383",
+  "run_id": "38747906138",
   "schema": 1,
   "target": {
     "artifact-name": "MKB_L_MODULE_JOY",

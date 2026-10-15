@@ -1,10 +1,10 @@
 {
   "artifact": {
     "name": "MKB_L_MODULE_RZT.uf2",
-    "sha256": "6eb95ed745acd5bfb03b3bbe2ec580524dca15f2ebc18561008a87603c29d356"
+    "sha256": "fcad1e4fc016c0b2ad36c7b27c4c5b57dd4ac37a840c365cd1d3a3651e5dcd53"
   },
   "generated": {
-    ".config": "deb65cff82375264589f7c9aafeb5dd0652aaaef33b0f0217a443ef7e95bf8f7",
+    ".config": "712125de34ae8e7fade8973aa00497807c4d44624e5b691dda1746165e852349",
     "zephyr.dts": "d5b630e8135e461e16a0e6c5bf1f673f260eb1b41151e1a5fc510b1855d32e97"
   },
   "inputs": {
@@ -244,7 +244,7 @@
         "untracked": {}
       },
       "zmk": {
-        "commit": "7fd6a70261963be9bc0cb4102e6bad339e115c39",
+        "commit": "2ae914a28d179fffb8fdd72080e44ef719f49973",
         "diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "dirty": false,
         "untracked": {}
@@ -323,7 +323,7 @@
       }
     },
     "source": {
-      "commit": "110e8ad9b081930dfab3f0acc93b46f57b2960a6",
+      "commit": "524955926c498410637a94c0d83bae3dbb373459",
       "diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "dirty": false,
       "untracked": {}
@@ -335,7 +335,7 @@
       "untracked": {}
     }
   },
-  "run_id": "38362652383",
+  "run_id": "38747906138",
   "schema": 1,
   "target": {
     "artifact-name": "MKB_L_MODULE_RZT",
