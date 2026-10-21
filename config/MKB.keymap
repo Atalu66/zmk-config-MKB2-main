@@ -6,6 +6,16 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/pointing.h>
 
+#define JP_AT     LBKT     // ＠ (US配列の [ の位置)
+#define JP_COLN   SEMI     // ： (US配列の ; の位置)
+#define JP_CARET  EQUAL    // ＾ (US配列の = の位置)
+#define JP_YEN    INT1     // ￥ / ＼
+#define JP_DQUOTE AT       // " (JIS配列でShift+2)
+#define JP_AMP    CARET    // & (JIS配列でShift+6)
+#define JP_QUOTE  AMPERSAND // ' (JIS配列でShift+7)
+#define JP_LPAR   ASTERISK  // ( (JIS配列でShift+8)
+#define JP_RPAR   LPAR     // ) (JIS配列でShift+9)
+
 #define DEF 0
 #define FUNC 1
 #define NUM 2
